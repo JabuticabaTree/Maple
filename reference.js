@@ -1,1 +1,1 @@
-const banner = "Welcome to Maple!";
+window.banner = "Welcome to Maple!";
