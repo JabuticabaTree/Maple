@@ -1,1 +1,1 @@
-var banner = "Hello world";
+const banner = "Welcome to Maple!";
